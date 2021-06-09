@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CourseWork 01</string>
+    <string name="next">NEXT</string>
+    <string name="identify">Identify</string>
+    <string name="identify_the_car_make">Identify the car make</string>
+    <string name="hints">Hints</string>
+    <string name="identify_the_car_image">Identify the car image</string>
+    <string name="advanced_level">Advanced Level</string>
+    <string name="timer">Timer</string>
+    <string name="next2">NEXT</string>
+    <string name="submit">Submit</string>
+    <string name="nextAdvanced">NEXT</string>
+    <string name="todoAdvanced">TODO</string>
+    <string name="todoAdvanced2">TODO</string>
+    <string name="todoAdvanced3">TODO</string>
+    <string name="submitAdvanced">SUBMIT</string>
+    <string name="nextAdvanced2">NEXT</string>
+    <string name="todoadvanced1">TODOAdvanced1</string>
+    <string name="todoadvanced02">TODOAdvanced02</string>
+    <string name="todoadvanced03">TODOAdvanced03</string>
+    <string name="todomake01">TODOMake01</string>
+    <string name="todomain01">TODOMain01</string>
+    <string name="todohint01">TODOHint01</string>
+
+    <string-array name="brands">
+        <item>Audi</item>
+        <item>Benz</item>
+        <item>BMW</item>
+        <item>Ferrari</item>
+        <item>Jaguar</item>
+        <item>Kia</item>
+        <item>Nissan</item>
+        <item>Renault</item>
+        <item>Suzuki</item>
+        <item>Toyota</item>
+    </string-array>
+</resources>
